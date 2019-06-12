@@ -7,7 +7,7 @@ git clone "https://github.com/DavidG636/Project-Automation.git"
 cd Project-Automation
 pip install PyGithub
 
-Then go to create.py and set the username and password to be your username and password.
+Then go to createProject.py and set the username and password to be your current username and password.
 Also make sure to change all directories to your directories so it should be '/Users/<your username>/path/to/your/project'
 ```
 
