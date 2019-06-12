@@ -1,5 +1,5 @@
 # Project-Automation
-This project was inspired by [Kalle Hallden's ProjectInitializationAutomation project](https://github.com/KalleHallden/ProjectInitializationAutomation)
+This project was inspired by [Kalle Hallden's ProjectInitializationAutomation project](https://github.com/KalleHallden/ProjectInitializationAutomation). This is my version but using the windows operating system. The code executes the commands which I would normally manually type in when creating a project.
 
 ### Install: 
 ```bash
