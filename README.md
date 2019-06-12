@@ -8,10 +8,11 @@ cd Project-Automation
 pip install PyGithub
 
 Then go to createProject.py and set the username and password to be your current username and password.
-Also make sure to change all directories to your directories so it should be '/Users/<your username>/path/to/your/project'
+Also make sure to change all directories as stated in the file
 ```
 
 ### Usage:
 ```bash
+Make sure the createProject.bat file is in your System32 folder.
 To run the script type in 'createProject nameOfYourFolder'
 ```
