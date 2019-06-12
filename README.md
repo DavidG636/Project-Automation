@@ -3,7 +3,7 @@ This project was inspired by [Kalle Hallden's ProjectInitializationAutomation pr
 
 ### Install: 
 ```bash
-git clone ""
+git clone "https://github.com/DavidG636/Project-Automation.git"
 cd Project-Automation
 pip install PyGithub
 
